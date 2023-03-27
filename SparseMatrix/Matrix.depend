@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1673883012 source:c:\users\almir\desktop\projekat4_almirbecirovic__297it21\matrix\list.cpp
+	"list.h"
+
+1673882539 c:\users\almir\desktop\projekat4_almirbecirovic__297it21\matrix\list.h
+	"list.cpp"
+
+1673883012 c:\users\almir\desktop\projekat4_almirbecirovic__297it21\matrix\list.cpp
+	"list.h"
+
+1674071444 source:c:\users\almir\desktop\projekat4_almirbecirovic__297it21\matrix\main.cpp
+	<iostream>
+	"matrix.h"
+
+1674071742 c:\users\almir\desktop\projekat4_almirbecirovic__297it21\matrix\matrix.h
+	"list.h"
+	<vector>
+	<utility>
+	<algorithm>
+	"matrix.cpp"
+
+1674071616 c:\users\almir\desktop\projekat4_almirbecirovic__297it21\matrix\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<typeinfo>
+
+1674072637 source:c:\users\almir\desktop\matrix\list.cpp
+	"list.h"
+
+1674072637 c:\users\almir\desktop\matrix\list.h
+	"list.cpp"
+
+1674072637 c:\users\almir\desktop\matrix\list.cpp
+	"list.h"
+
+1674072638 source:c:\users\almir\desktop\matrix\main.cpp
+	<iostream>
+	"matrix.h"
+
+1674072638 c:\users\almir\desktop\matrix\matrix.h
+	"list.h"
+	<vector>
+	<utility>
+	<algorithm>
+	"matrix.cpp"
+
+1674072638 c:\users\almir\desktop\matrix\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<typeinfo>
+
